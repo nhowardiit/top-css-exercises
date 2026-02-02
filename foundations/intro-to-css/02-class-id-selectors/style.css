@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+.base {
+    font-size: 18px;
+    background-color: pink;
+    font-family: sans-serif;
+    color: black;
+}
+
+.big {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+#two {
+    color: blue;
+    background-color: white;
+    font-size: 48px;
+}
+
+#four {
+    color: black;
+    background-color: lightgreen;
+    font-size: 32px;
+    font-weight: 700;
+}
